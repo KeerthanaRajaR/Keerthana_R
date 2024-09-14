@@ -1,10 +1,10 @@
 # Keerthana_R
 
-About Me
+About Me :
 
 I’m Keerthana R, a Data Analyst committed to using technology to address problems and make a difference.
 
-Connect with Me
+Connect with Me :
 
 LinkedIn: Keerthana R LinkedIn
 
